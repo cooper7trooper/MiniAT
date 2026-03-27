@@ -1,5 +1,5 @@
 Licensed under CC BY-NC 4.0
-# MiniAT Bin File Repository
+# MiniAT Animations Repository
 
 A collection and guide for MiniAT animation .bin files.
 These files contain precompiled animations designed for use with MiniAT-compatible devices.
