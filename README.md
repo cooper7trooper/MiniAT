@@ -1,3 +1,5 @@
+![Lain Turn](./Serial_Experiments_Lain/LainTurn.gif)
+
 Licensed under CC BY-NC 4.0
 # MiniAT Animations Repository
 
@@ -38,3 +40,8 @@ The delay of each frame is 150ms.
 * [GraphicsGale](https://graphicsgale.com/us/) To create the animations.
 * [EzGIF](https://ezgif.com/split) To format templates and frames.
 * [Wplace Colour Converter](https://pepoafonso.github.io/color_converter_wplace/index.html) To change colours either to monochrome or an easy to shade colour scheme.
+
+## Collaboration
+If you’d like to contribute animations to MiniAT, feel free to reach out to me on Etsy. I'd love to add more to this collection!
+
+If you have any questions or ideas contact me on etsy. Enjoy!
