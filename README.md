@@ -19,6 +19,7 @@ The onboard chip can store roughly 1MB of data.
 Please keep this in mind when uploading as there is not a detection system in place yet.
 Each BIN is very small so it shouldn't be a problem.
 
+![Death Star](<Star Wars/DeathStar.gif>)
 # Custom Animations
 
 This will outline the steps to making your own custom MiniAT animation.
