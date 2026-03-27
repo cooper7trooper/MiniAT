@@ -25,7 +25,7 @@ This will outline the steps to making your own custom MiniAT animation.
 The display is Monochrome and has a resolution of 128x128 pixels. 
 The delay of each frame is 150ms.
 
-##Workflow
+## Workflow
 * Firstly I find an image or animation I'd like to animate I then reduce the resolution and colour to match the display
 (In the tools section I provide different websites I use to achieve this).
 * I then Begin animating the frames inside a program called Graphicsgale.
@@ -33,7 +33,7 @@ The delay of each frame is 150ms.
 (This will combine the frames together for the MiniAT).
 * Once you've generated the BIN you can hit download and import it into your MiniAT.
 
-##Tools
+## Tools
 * [image2cpp](https://javl.github.io/image2cpp/) For Generating BIN files.
 * [GraphicsGale](https://graphicsgale.com/us/) To create the animations.
 * [EzGIF](https://ezgif.com/split) To format templates and frames.
