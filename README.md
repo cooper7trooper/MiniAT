@@ -1,4 +1,4 @@
-![Lain Turn](Serial_Experiments_Lain/LainTurn.gif)
+![Lain Turn](Serial Experiments Lain/LainTurn.gif)
 
 Licensed under CC BY-NC 4.0
 # MiniAT Animations Repository
