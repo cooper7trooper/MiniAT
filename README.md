@@ -41,6 +41,7 @@ The delay of each frame is 150ms.
 ## Tools
 * [image2cpp](https://javl.github.io/image2cpp/) For Generating BIN files.
 * [GraphicsGale](https://graphicsgale.com/us/) To create the animations.
+* [Aseprite](https://www.aseprite.org/) Another animation platform that most people use.
 * [EzGIF](https://ezgif.com/split) To format templates and frames.
 * [Wplace Colour Converter](https://pepoafonso.github.io/color_converter_wplace/index.html) To change colours either to monochrome or an easy to shade colour scheme.
 
