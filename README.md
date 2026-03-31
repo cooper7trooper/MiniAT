@@ -32,6 +32,8 @@ The delay of each frame is 150ms.
 * Firstly I find an image or animation I'd like to animate I then reduce the resolution and colour to match the display
 (In the tools section I provide different websites I use to achieve this).
 * I then Begin animating the frames inside a program called Graphicsgale.
+  This is what I personally use but a more popular platform is Aseprite.
+  I found this tutorial [here](https://www.youtube.com/watch?v=Ep-_nJNHPc4) if you wanted to try it out. 
 * Once animated I export the individual .PNG's and import them into [image2cpp](https://javl.github.io/image2cpp/)
 (This will combine the frames together for the MiniAT).
 * Once you've generated the BIN you can hit download and import it into your MiniAT.
