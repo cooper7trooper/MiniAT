@@ -35,8 +35,8 @@ The delay of each frame is 150ms.
   This is what I personally use but a more popular platform is Aseprite.
   I found this tutorial [here](https://www.youtube.com/watch?v=Ep-_nJNHPc4) if you wanted to try it out. 
 * Once animated I export the individual .PNG's and import them into [image2cpp](https://javl.github.io/image2cpp/)
-(This will combine the frames together for the MiniAT).
-* Once you've generated the BIN you can hit download and import it into your MiniAT.
+(This will combine the frames together for the MiniAT). Using select image you can import all the images in the correct order, you then scroll down to preview to ensure they are displaying correctly. Once your happy with how they look hit 'generate code' then 'download .bin'.
+* Now that you have your bin all you need to do is upload it to miniat.local on your device!
 
 ## Tools
 * [image2cpp](https://javl.github.io/image2cpp/) For Generating BIN files.
