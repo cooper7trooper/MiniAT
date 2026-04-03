@@ -19,6 +19,14 @@ The onboard chip can store roughly 1MB of data.
 Please keep this in mind when uploading as there is not a detection system in place yet.
 Each BIN is very small so it shouldn't be a problem.
 
+# Changing WIFI Details
+
+To change your wifi ssid or password please download the wifi.json. Change the file to reflect what name and password you want for your wifi network. Ensure you keep the quotation marks and only change yourSSID and yourPassword. Please write down the password you put in just in case you forget. 
+
+The file wifi.json can than be uploaded to where your animations are stored. Upon rebooting it will update to your new values.
+
+If there is any issues with reading the file it will revert back to its original state.
+
 ![Death Star](<Star Wars/DeathStar.gif>)
 # Custom Animations
 
